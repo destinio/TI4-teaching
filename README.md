@@ -42,12 +42,14 @@ player to accumulate 10 victory points claims the Imperial Throne and wins the g
 1. starting technology and starting units listed on the back of his faction sheet
 2.  places the technology cards face up near faction sheet
 3. starting units in his home system
+
 *If a player has multiple planets in his home system, it is recommended that he place his space dock and infantry on the planet with the highest resource value.*
+
 - three command tokens in his tactic pool
 - three command tokens in his fleet pool (ship up)
 - two command tokens in his strategy pool
 
-## GENRAL
+## GENERAL
   - maximum of seven action cards
 
 ## Units
