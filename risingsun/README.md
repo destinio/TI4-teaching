@@ -2,7 +2,39 @@
 
 ![Header](header.png)
 
-## Objective
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Objective](#objective)
+    - [How to get VPs](#how-to-get-vps)
+- [Setup](#setup)
+  - [Player Setup](#player-setup)
+  - [Kami Setup](#kami-setup)
+  - [Prepare The season decks](#prepare-the-season-decks)
+  - [Last Steps](#last-steps)
+- [Playing the Game](#playing-the-game)
+  - [Things to Keep in Mind](#things-to-keep-in-mind)
+  - [The Seasons](#the-seasons)
+  - [Seasonal Setup](#seasonal-setup)
+  - [Tea Ceremony](#tea-ceremony)
+  - [Political Phase](#political-phase)
+  - [War Phase](#war-phase)
+    - [Battle Outcome](#battle-outcome)
+    - [WAR REPARATIONS](#war-reparations)
+  - [Seasonal Cleanup](#seasonal-cleanup)
+  - [Winter Season](#winter-season)
+- [Gloss](#gloss)
+  - [Alliances](#alliances)
+  - [Mandates](#mandates)
+    - [Recruit](#recruit)
+    - [Marshal](#marshal)
+    - [Train](#train)
+    - [Harvest](#harvest)
+    - [Betray](#betray)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Objective
 Players compete to lead their Clans to victory by accumulating Victory Points over the course of the Seasons. 
 
 It begins with Spring, followed by Summer, and then Autumn. When Winter comes, the game draws to a close.
@@ -20,7 +52,7 @@ By the time Winter arrives, the player with the most points will rule the Land o
 # Setup
 ## Player Setup
 - Choose a clan, take their sheet and a Political/War tile (Political side face up)
-  - **Setting order, Clan with the lowest startin honor goes first and so on**
+  - **Siting order, Clan with the lowest starting honor goes first and so on**
 - Place one of your markers on space one of the victory track
 - place clan marker on honor track
   - lowest honor goes on top
@@ -171,4 +203,3 @@ Being in an Alliance can be a powerful thing, granting you bonuses and some degr
 ### Train
 ### Harvest
 ### Betray
-
