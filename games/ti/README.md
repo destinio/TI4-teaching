@@ -1,17 +1,17 @@
-# TI4
+![Header](header.jpg)
 https://images-cdn.fantasyflightgames.com/filer_public/f3/c6/f3c66512-8e19-4f30-a0d4-d7d75701fd37/ti-k0289_learn_to_playcompressed.pdf
 
-## Ojective
+# Ojective
 Throughout a game of Twilight Imperium, players will barter, plot, and wage war upon one another to complete objectives. The first
 player to accumulate 10 victory points claims the Imperial Throne and wins the game.
 
-## Winning
+**Winning**
 -  Immediately ends when one player has gained 10 victory points
 -  When the speaker would reveal an objective but cannot, the game immediately ends and the player with the most victory points wins the game. If there is a tie, the player among the tied players who is earliest in initiative order wins the game.
 - **Important: A player cannot score public objectives if he does not control all of the planets in his home system.**
 - **Important: A player cannot have more than three total scored and un-scored secret objectives. If he draws a secret objective and has more than three, he must choose one of his un-scored secret objectives and return it to the deck. Then, he shuffles the secret objective deck.**
 
-## Setup
+# Setup
 1. DETERMINE SPEAKER
 2. ASSIGN FACTIONS
   - 1 home system tile
@@ -38,7 +38,7 @@ player to accumulate 10 victory points claims the Imperial Throne and wins the g
   - 5 stage I 5 stage II (face-down)
   - reveal first 2 on stage I
 
-## Player Setup
+# Player Setup
 1. starting technology and starting units listed on the back of his faction sheet
 2.  places the technology cards face up near faction sheet
 3. starting units in his home system
@@ -49,7 +49,7 @@ player to accumulate 10 victory points claims the Imperial Throne and wins the g
 - three command tokens in his fleet pool (ship up)
 - two command tokens in his strategy pool
 
-## GENERAL
+# GENERAL Rules
   - maximum of seven action cards
 
 ## Units
@@ -79,18 +79,18 @@ player to accumulate 10 victory points claims the Imperial Throne and wins the g
     -  excess resources are lost
   - if you have no units on a planet you control place a "control token" on it
 
-## PHASES
+# PHASES
 
-### STRATEGY PHASE
+## STRATEGY PHASE
   - speaker places one trade good on each strategy card that was not chosen
-### ACTION PHASE
+## ACTION PHASE
   - on your turn you take 1 action
   - around and around in initiative order
   - once you pass you are done for the phase
     - you can not pass until you have done your **tactical action**
   - phase ends when each player has passed
   - there are 3 types of actions
-### STATUS PHASE
+## STATUS PHASE
 1. SCORE OBJECTIVES
   - **main way to win!!!**
   - objective timing page 12
@@ -113,7 +113,7 @@ player to accumulate 10 victory points claims the Imperial Throne and wins the g
 7. REPAIR UNITS
 8. RETURN STRATEGY CARDS
 
-### AGENDA PHASE
+## AGENDA PHASE
 - if the token in the middle is gone move on to this phase
 - The agenda phase involves heavy negotiation and political maneuvering
 - Players may freely move units into the Mecatol Rex system, but cannot land ground forces on the planet while the custodians token is present.

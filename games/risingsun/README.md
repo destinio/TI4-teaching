@@ -40,7 +40,7 @@ Players compete to lead their Clans to victory by accumulating Victory Points ov
 
 It begins with Spring, followed by Summer, and then Autumn. When Winter comes, the game draws to a close.
 
-We will forge and break alliances, choose political actions, worship the gods, customize their clans, and position their  figures around Japan. 
+We will forge and break alliances, choose political actions, worship the gods, customize our clans, and position our figures around Japan. 
 
 Victory Points can be gained in several ways, from winning battles, harvesting the right provinces, playing to the Virtues accumulated by your Clan. 
 
@@ -136,7 +136,7 @@ By the time Winter arrives, the player with the most points will rule the Land o
 
 ## War Phase
 
-During the War Phase, players Battle over several contested Provinces. Winning Battles grants players extra Victory Points, especially if they are able to conquer a variety of different Provinces. However, cunning players may reap many bene ts from Battles they lose, if they master the art of war.
+During the War Phase, players Battle over several contested Provinces. Winning Battles grants players extra Victory Points, especially if they are able to conquer a variety of different Provinces. However, cunning players may reap many benefits from Battles they lose, if they master the art of war.
 
 - **Note that “At Start of War” Phase effects take place at the start of the War Phase of each Season, not at the start of each Battle**
 -  flip your Political/War tiles to their War side.
@@ -147,7 +147,7 @@ During the War Phase, players Battle over several contested Provinces. Winning B
   - if nobody; nothing happens
   - if only one clan; take the War Province Token
   - if two Allied clans; NO BATTLE and clan with the most force takes token
-  - if atleast to non-allied; a battle takes place
+  - if atleast two non-allied; a battle takes place
   - **War Province Tokens** are worth VPs at the end of the game
 ### resolving battles
   - Before a Battle begins, all players must clearly display their Coins and Ronin tokens next to their Clan Screens. A player must truthfully answer how many Coins and Ronin tokens they have.
@@ -167,17 +167,16 @@ During the War Phase, players Battle over several contested Provinces. Winning B
 - **NOTE: If, at the end of a Battle, no players have any Force left in the Province, the player with the highest Honor wins.**
 
 
-### WAR REPARATIONS
+### War Reparations
 - all losing players discard all Coins they allocated on the War tile to the common pile
 - The winning player, however, gives all Coins they allocated on their War tile to the losing players.
 - If the number of used Coins can’t be distributed equally, the winning player decides which player(s) should get an extra Coin.
 - War is then resolved in the next Province, until all Provinces with a War Number token have been resolved, and the War Phase comes to an end.
-- 
 
 ## Seasonal Cleanup
 - All Coins and Ronin tokens in players’ reserves are returned to the common pile. They will need to rebuild their resources again next Season.
 - All  figures on the Shrine tiles are returned to their owners’ reserves.
-- Take the Political Mandates that are on the board and shu e them back with the deck of Political Mandates 
+- Take the Political Mandates that are on the board and shuffle them back with the deck of Political Mandates 
 - BEGIN THE NEXT PHASE
 
 ## Winter Season
