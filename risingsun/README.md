@@ -3,7 +3,6 @@
 ![Header](header.png)
 
 ## Objective
-```
 Players compete to lead their Clans to victory by accumulating Victory Points over the course of the Seasons. 
 
 It begins with Spring, followed by Summer, and then Autumn. When Winter comes, the game draws to a close.
@@ -13,7 +12,6 @@ We will forge and break alliances, choose political actions, worship the gods, c
 Victory Points can be gained in several ways, from winning battles, harvesting the right provinces, playing to the Virtues accumulated by your Clan. 
 
 By the time Winter arrives, the player with the most points will rule the Land of the Rising Sun!
-```
 
 ### How to get VPs
 - during the game
@@ -102,9 +100,9 @@ By the time Winter arrives, the player with the most points will rule the Land o
   - Kamis - see page 19
 
 ## War Phase
-```
+
 During the War Phase, players Battle over several contested Provinces. Winning Battles grants players extra Victory Points, especially if they are able to conquer a variety of different Provinces. However, cunning players may reap many bene ts from Battles they lose, if they master the art of war.
-```
+
 - **Note that “At Start of War” Phase effects take place at the start of the War Phase of each Season, not at the start of each Battle**
 -  flip your Political/War tiles to their War side.
 - IMPORTANT: During the War Phase, players **CANNOT** freely give each other Coins or Ronin tokens as part of their negotiations.
