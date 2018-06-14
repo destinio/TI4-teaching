@@ -35,6 +35,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Objective
+![devide](border.png)
 Players compete to lead their Clans to victory by accumulating Victory Points over the course of the Seasons. 
 
 It begins with Spring, followed by Summer, and then Autumn. When Winter comes, the game draws to a close.
@@ -50,9 +51,10 @@ By the time Winter arrives, the player with the most points will rule the Land o
 - at the end of the game from War Province Tokens [LINK](#winter-season)
 
 # Setup
+![devide](border.png)
 ## Player Setup
 - Choose a clan, take their sheet and a Political/War tile (Political side face up)
-  - **Siting order, Clan with the lowest starting honor goes first and so on**
+  - **Sitting order; Clan with the lowest starting honor goes first and so on**
 - Place one of your markers on space one of the victory track
 - place clan marker on honor track
   - lowest honor goes on top
@@ -79,10 +81,11 @@ By the time Winter arrives, the player with the most points will rule the Land o
 
 
 # Playing the Game
+![devide](border.png)
 
 ## Things to Keep in Mind
 - Ties go to the player that is highest on the honor track
-- each figure, including monsters, are worth 1 force. Unless stated other wise (monster cards)
+- each figure, including monsters, are worth 1 force. Unless stated otherwise (monster cards)
 - at the end of a season all coins and ronin are discarded
 
 ## The Seasons
@@ -111,21 +114,21 @@ By the time Winter arrives, the player with the most points will rule the Land o
 - Alliances last for the current Season (unless they are broken by a Betray Mandate)
 - Allied players grant each other powerful bonuses from the Political Mandates they play during the Political Phase
 - Allied players don’t  fight each other during the War Phase if they are the only ones in a Province. Victory goes automatically to the one with the highest Force
-- In a Battle involving two Allied players and other players, if one of the Allied players is victorious, they don’t kill the  gures of their Ally
+- In a Battle involving two Allied players and other players, if one of the Allied players is victorious, they don’t kill the figures of their Ally
 - Allied players are still considered opponents for the purpose of Season card abilities and other effects.
 - If an Allied player plays the Betray Political Mandate, they immediately lose Honor and the Alliance is broken
 - In the unlikely event that the game ends in a tie between Allied players, they share the victory
 
 ## Political Phase
 - During the Political Phase, players will take turns selecting [Political Mandates](#mandates) in order to prepare their Clans and position their forces according to their strategies.
-- broken into two parts; Mandate and Lami turns
-- Mandate Turns
+- broken into two parts; Mandate and Kami turns
+- **Mandate Turns**
   - Deck moves around the table base on who used it last. Starting with the first player from the first phase
   -  draw the top 4 Mandate tiles and looks at them in secret
   - choose 1 of the Political Mandates and return the other 3, facedown, to the top of the deck, without reshuffling
   - The chosen Political Mandate is performed by all players, starting with the player to the left of the player who selected it and proceeding clockwise.
     - **except for the Train Mandate**
-- Kami Turns
+- **Kami Turns**
   - Clans that have sent some of their Shinto warriors to worship at the Shrines may reap powerful benefits
   - During a Kami Turn, players resolve the effects of each of the 4 Shrine tiles in order, starting from the leftmost Shrine and proceeding to the right.
   - players compare the total Force each Clan has there. Only the Clan with the most Force gets the benefit
@@ -190,11 +193,10 @@ During the War Phase, players Battle over several contested Provinces. Winning B
 
 
 # Gloss
+![devide](border.png)
 
 ## Alliances
-```
 Being in an Alliance can be a powerful thing, granting you bonuses and some degree of safety (see next page). However, they may sometimes be restrictive or detrimental to your plans. It is very important to choose wisely who you want to Ally with, how far you’re willing to take this Alliance, what you expect to gain from this Alliance, and even if you want to be in an Alliance at all this Season.
-```
 
 ## Mandates
 
