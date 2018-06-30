@@ -40,15 +40,15 @@ Players compete to lead their Clans to victory by accumulating Victory Points ov
 
 It begins with Spring, followed by Summer, and then Autumn. When Winter comes, the game draws to a close.
 
-We will forge and break alliances, choose political actions, worship the gods, customize our clans, and position our figures around Japan. 
+We will forge and break alliances (Tea Ceremony, Betray), choose political actions (Political Mandates), worship the gods (Kami, Train), customize our clans (Card Upgrades), and position our figures around Japan (Marshal, Recruit, Train). 
 
-Victory Points can be gained in several ways, from winning battles, harvesting the right provinces, playing to the Virtues accumulated by your Clan. 
+Victory Points can be gained in several ways, from winning battles (War Phase), harvesting the right provinces (Political Mandate), playing to the Virtues accumulated by your Clan (Cards, Coins). 
 
-By the time Winter arrives, the player with the most points will rule the Land of the Rising Sun!
+When the time Winter arrives, the player with the most points will rule the Land of the Rising Sun!
 
 ### How to get VPs
-- during the game
-- at the end of the game from War Province Tokens [LINK](#winter-season)
+- during the game (Harvest, killing/death, Cards?)
+- at the end of the game for each War Province Token; Spring 1VP, Summer 2VP, Fall 3VP, bonus diffrent provinces [LINK](#winter-season)
 
 # Setup
 ![devide](border.png)
@@ -137,6 +137,8 @@ By the time Winter arrives, the player with the most points will rule the Land o
 ## War Phase
 
 During the War Phase, players Battle over several contested Provinces. Winning Battles grants players extra Victory Points, especially if they are able to conquer a variety of different Provinces. However, cunning players may reap many benefits from Battles they lose, if they master the art of war.
+
+**each War Province Token; Spring 1VP, Summer 2VP, Fall 3VP at end of game**
 
 - **Note that “At Start of War” Phase effects take place at the start of the War Phase of each Season, not at the start of each Battle**
 -  flip your Political/War tiles to their War side.
