@@ -1,3 +1,5 @@
+![Header](header.png)
+
 # Sheriff of Nottingham
 
 ## Set Up
